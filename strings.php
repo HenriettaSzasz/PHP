@@ -1,5 +1,5 @@
 <?php
-    echo '<br>Exercises: <br>';
+    echo '<br>Exercises part 1: <br>';
 
     echo '1. Write a PHP script to : - <br>' .
     'a) transform a string all uppercase letters. <br>' .

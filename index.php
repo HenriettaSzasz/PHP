@@ -5,5 +5,6 @@
     
     echo "<tr><td>" . implode('</td><td>', $info) . "</td></tr></table>";
 
-    include_once 'strings.php'
-?>
+    //include_once 'strings.php'
+
+    include_once 'arrays.php';
